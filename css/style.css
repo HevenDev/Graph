@@ -486,22 +486,22 @@ figure {
   background-color: rgba(0, 0, 0, 0);
   background-position: center center;
   background-repeat: no-repeat;
-  background-image: url(../images/icons/preloader.png);
+  background-image: url(../images/img/Graph_logo.png);
   -webkit-transition: all 200ms ease;
   transition: all 200ms ease;
-  -webkit-animation-name: rotateMe;
+  -webkit-animation-name: scaleUp;
   -webkit-animation-duration: 2s;
   -webkit-animation-iteration-count: infinite;
   -webkit-animation-timing-function: linear;
-  -moz-animation-name: rotateMe;
+  -moz-animation-name: scaleUp;
   -moz-animation-duration: 2s;
   -moz-animation-iteration-count: infinite;
   -moz-animation-timing-function: linear;
-  -ms-animation-name: rotateMe;
+  -ms-animation-name: scaleUp;
   -ms-animation-duration: 2s;
   -ms-animation-iteration-count: infinite;
   -ms-animation-timing-function: linear;
-  animation-name: rotateMe;
+  animation-name: scaleUp;
   animation-duration: 2s;
   animation-iteration-count: infinite;
   animation-timing-function: linear;
@@ -23393,7 +23393,6 @@ img.lazy-image.loaded {
   max-width: 100%;
   border-radius: 8px;
   position: relative;
-  mix-blend-mode: luminosity;
 }
 
 .process-one .sec-title {

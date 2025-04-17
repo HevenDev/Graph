@@ -1,3 +1,14 @@
+@keyframes scaleUp {
+    0% {
+        transform: scale(3);
+      }
+      50% {
+        transform: scale(4);
+      }
+      100% {
+        transform: scale(3);
+      }
+}
 
 @keyframes rotateMe {
     from {
