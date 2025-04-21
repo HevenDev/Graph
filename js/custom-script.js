@@ -299,7 +299,7 @@
 
   //Submenu Dropdown Toggle
   if ($(".main-header li.dropdown ul").length) {
-    $(".main-header .navigation li.dropdown > a").append(
+    $(".main-header .navigation li.dropdown > .upcoming-project").append(
       '<div class="dropdown-btn"><span class="fa fa-angle-right"></span></div>'
     );
   }
