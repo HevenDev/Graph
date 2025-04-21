@@ -639,6 +639,7 @@ img {
   max-width: 100%;
   max-height: 60px;
   z-index: 1;
+  left: -60px;
 }
 
 .main-header .other-links {

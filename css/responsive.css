@@ -92,9 +92,9 @@
     padding-bottom: 20px;
   }
 
-  .main-header.fixed-header .nav-outer .mobile-nav-toggler {
+  /* .main-header.fixed-header .nav-outer .mobile-nav-toggler {
     margin-top: 20px;
-  }
+  } */
 
   .header-style-two.fixed-header .nav-outer .mobile-nav-toggler {
     color: #fff;
@@ -401,7 +401,7 @@
   }
 
   .we-do-section {
-    padding: 210px 0px 60px;
+    padding: 60px 0px;
   }
 
   .page-banner .inner-container {
