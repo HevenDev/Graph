@@ -3568,7 +3568,7 @@ img.lazy-image.loaded {
 .sec-title h2 .dot {
   color: var(--thm-base);
   position: relative;
-  left: -5px;
+  left: -3px;
 }
 
 .sec-title .lower-text {
